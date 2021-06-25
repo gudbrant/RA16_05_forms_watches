@@ -1,0 +1,38 @@
+* {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.ui.container.segment {
+  padding: 60px 200px;
+}
+
+.label {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.ui.gray.button {
+  text-transform: uppercase;
+}
+
+.ui.gray.button:hover {
+  background-color: rgb(48, 204, 48);
+  color: white;
+}
+
+.clocks-name {
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.header {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom:50px;
+}
